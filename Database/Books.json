@@ -1,0 +1,2 @@
+{"_id":{"$oid":"611eb2447cd313da40a9c6cf"},"Name":"Design Patterns","Price":54.93,"Category":"Computers","Author":"Ralph Johnson"}
+{"_id":{"$oid":"611eb2447cd313da40a9c6d0"},"Name":"Clean Code","Price":43.15,"Category":"Computers","Author":"Robert C. Martin"}
